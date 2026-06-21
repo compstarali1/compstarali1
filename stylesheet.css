@@ -1,0 +1,48 @@
+.block_ {
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: center;
+    margin: 30pt 0 15pt;
+    padding: 0
+    }
+.block_1 {
+    display: block;
+    text-align: center;
+    margin: 0 0 10pt;
+    padding: 0
+    }
+.block_2 {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    margin: 0 0 10pt;
+    padding: 0
+    }
+.block_3 {
+    display: block;
+    margin: 0 0 10pt;
+    padding: 0
+    }
+.calibre {
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    white-space: pre-wrap
+    }
+.calibre2 {
+    font-style: italic
+    }
+.text_ {
+    color: #00F;
+    text-decoration: underline
+    }

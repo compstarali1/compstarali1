@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Merchant, Anya" opf:role="aut">Anya Merchant</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.39.1) [https://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2025-08-22T14:15:35.148035+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e55274e1-e23f-4f2b-afcf-62f7d321a91a</dc:identifier>
+    <dc:identifier opf:scheme="calibre">e55274e1-e23f-4f2b-afcf-62f7d321a91a</dc:identifier>
+    <dc:title>Weekend Resort Uncensored</dc:title>
+    <meta name="calibre:title_sort" content="Weekend Resort Uncensored"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id2"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>
